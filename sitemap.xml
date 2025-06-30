@@ -1,0 +1,28 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+<loc> https://gta5mobile.vercel.app/index.html</loc>
+<lastmod>2023-7-10T11:59:43+00:00</lastmod>
+<priority>1</priority>
+</url>
+<url>
+<loc> https://gta5mobile.vercel.app/author.html</loc>
+<priority>0.2</priority>
+</url>
+<url>
+<loc> https://gta5mobile.vercel.app/about.html</loc>
+<priority>0.2</priority>
+</url>
+<url>
+<loc> https://gta5mobile.vercel.app/contact.html</loc>
+<priority>0.2</priority>
+</url>
+<url>
+<loc> https://gta5mobile.vercel.app/gta-5-mobile/Top-10-Missions-to-Revisit-in-GTA-5-Mobile.html</loc>
+<lastmod>2023-7-10T11:59:43+00:00</lastmod>
+<priority>0.8</priority>
+</url>
+<url>
+<loc> https://gta5mobile.vercel.app/gta-5-mobile/posts.html</loc>
+<priority>0.7</priority>
+</url>
+</urlset>
